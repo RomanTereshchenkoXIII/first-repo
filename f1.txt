@@ -1,1 +1,1 @@
-bool func();
+int func();
